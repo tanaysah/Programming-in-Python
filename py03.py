@@ -25,3 +25,4 @@ gender= input ("what is your gender? \n")
 
 print("name \n age\ngender\n")
 
+

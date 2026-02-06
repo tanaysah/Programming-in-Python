@@ -1,0 +1,11 @@
+# Using single quotes
+str1 = 'Hello Python'
+print(str1)
+
+str2 = "Hello Python"
+print(str2)
+
+str3 = '''Triple quotes are generally used for
+represent the multiline or
+docstring'''
+print(str3)
